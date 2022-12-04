@@ -1,0 +1,23 @@
+{
+    "response": {
+        "count": 5938723,
+        "items": [
+            {
+                "can_access_closed": true,
+                "first_name": "Jack",
+                "is_closed": false,
+                "last_name": "Smith",
+                "like": 181,
+                "photo_50": "https://youtube.com"
+            },
+            {
+                "can_access_closed": true,
+                "first_name": "John",
+                "is_closed": false,
+                "last_name": "Raja",
+                "like": 230,
+                "photo_50": "https://www.youtube.com"
+            }
+        ]
+    }
+}
